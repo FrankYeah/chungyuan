@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/north-sound", {data:[{}],fetch:{},mutations:[]});
